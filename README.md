@@ -50,4 +50,4 @@
 
 ---
 
-> "Every great developer you know started out just like you. Keep going." 🚀
+> "Your only opponent is yourself."
