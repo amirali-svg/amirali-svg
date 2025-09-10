@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Amirali 👋</h2>
 
 <p align="center">
-💻 Currently learning JavaScript | 🎨 Skilled in HTML, CSS, and Bootstrap | 🌍 Based in Iran  
+💻 Currently learning JavaScript & Python | 🎨 Skilled in HTML, CSS, Tailwind CSS & Python | 🌍 Based in Iran  
 </p>
 
 ---
@@ -20,8 +20,9 @@
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 ---
 
