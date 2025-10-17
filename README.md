@@ -28,7 +28,7 @@
 
 ### ⚙️ Currently Learning
 
-- 🔸 Advanced JavaScript
+- 🔸 Mastering JavaScript
 - 🔸 Python (basics to real-world use)
 - 🔸 Building functional, real-world projects
 - 🔸 Using Git & GitHub more effectively
