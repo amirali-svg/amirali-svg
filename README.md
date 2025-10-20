@@ -4,8 +4,6 @@
 💻 Currently learning JavaScript & Python | 🎨 Skilled in HTML, CSS, Tailwind CSS & Python | 🌍 Based in Iran  
 </p>
 
----<img align="right" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
-
 ### 👨‍💻 About Me
 
 - 🔥 Passionate about clean and practical UI design  
