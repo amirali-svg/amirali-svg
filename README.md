@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Amirali 👋</h2>
 
 <p align="center">
-💻 Currently learning JavaScript & Python | 🎨 Skilled in HTML, CSS, Tailwind CSS & Python | 🌍 Based in Iran  
+💻 Currently learning Master JavaScript & Python | 🎨 Skilled in HTML, CSS, Tailwind CSS ,JavaScript & Python | 🌍 Based in Iran  
 </p>
 
 ### 👨‍💻 About Me
